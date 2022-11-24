@@ -1,0 +1,19 @@
+.header {
+  width: 100%;
+  height: 5rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #f76540;
+  padding: 0 10%;
+}
+
+.solid {
+    width: 100%;
+    height: 5rem;
+    display: inline;
+    align-items: baseline;
+    justify-content: space-between;
+    background-color: #e6e6e6;
+    padding: 0 10%;
+}
